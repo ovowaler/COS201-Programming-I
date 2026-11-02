@@ -3,10 +3,10 @@
 ## Week 1: Introduction to Programming and Problem-Solving
 
 ### Student Details
-- **Name:** Fayomi-amos Oluwatobiloba Gideon
+- **Name:** Okiokpa Ogheneovo Walter
 - **Programme:** Cybersecurity (CYB)
 - **Course Code:** COS 201
-- **Matic no.:** 26/20410
+- **Matic no.:** 25/18965
 
 ### Practical Exercise
 I created and executed my first Java program. The program displays my course information, three reasons programming is important in cybersecurity, and my personal learning goal.
@@ -23,8 +23,8 @@ I created and executed my first Java program. The program displays my course inf
 ## Week 2: Development Environment and First Java Program
 
 ### Student Information
-- **Name:** Fayomi-amos Oluwatobiloba Gideon
-- **Matriculation Number:** 26/20410
+- **Name:** Okiokpa Ogheneovo Walter
+- **Matriculation Number:** 25/18965
 - **Programme:** Cybersecurity
 - **Course Code:** COS 201
 
